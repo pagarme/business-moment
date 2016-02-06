@@ -1,0 +1,40 @@
+{
+  "name": "business-moment",
+  "version": "1.0.0",
+  "description": "Business calendar momentjs plugin",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "script/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pagarme/business-moment.git"
+  },
+  "keywords": [
+    "moment",
+    "momentjs",
+    "business",
+    "calendar",
+    "plugin"
+  ],
+  "author": "Jonathan Lima <jonatan@pagar.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pagarme/business-moment/issues"
+  },
+  "homepage": "https://github.com/pagarme/business-moment#readme",
+  "dependencies": {
+    "bluebird-ff": "^1.0.2",
+    "business-calendar": "^1.0.0",
+    "moment": "^2.11.2",
+    "prequest": "^1.0.0",
+    "ramda": "^0.19.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.2.0",
+    "coveralls": "^2.11.6",
+    "istanbul": "^0.4.2",
+    "mocha": "^2.4.5"
+  }
+}

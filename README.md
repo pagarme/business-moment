@@ -35,6 +35,8 @@ Returns if the supplied date is a business day.
 
 ## nextBusinessDay(country, date, options)
 
+Returns the next business day after `day`.
+
 # License
 
 Check [here](LICENSE).

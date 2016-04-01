@@ -1,6 +1,6 @@
 {
   "name": "business-moment",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Business calendar momentjs plugin",
   "main": "lib/index.js",
   "scripts": {
@@ -25,7 +25,7 @@
   "homepage": "https://github.com/pagarme/business-moment#readme",
   "dependencies": {
     "bluebird-ff": "^1.0.2",
-    "business-calendar": "^1.0.0",
+    "business-calendar": "^1.1.0",
     "moment": "^2.11.2",
     "prequest": "^1.0.0",
     "ramda": "^0.19.1"

@@ -1,8 +1,6 @@
 language: node_js
 node_js:
-  - "0.12"
-  - "0.11"
-  - "0.10"
+  - "6.2.1"
 env:
   - EXPORT_COVERAGE=1
 

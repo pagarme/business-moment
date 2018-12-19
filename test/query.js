@@ -27,7 +27,7 @@ describe('Query', function() {
 
 	describe('nextBusinessDay', function() {
 		it('should return the correct day', function() {
-			return expect(bm.nextBusinessDay('brazil', new Date(2016, 1, 5, 10))).to.eventually.eql(new Date(2016, 1, 10, 10));
+			return expect(bm.nextBusinessDay('brazil', new Date(2016, 1, 5, 10))).to.eventually.eql(new Date(2016, 1, 10, 2));
 		});
 	});
 });

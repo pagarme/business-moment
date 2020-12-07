@@ -29,7 +29,7 @@ You can change the `cacheLifetime` to change by how much time an year informatio
 
 Returns information from `business-calendar` about this day.
 
-## isBuinessDay(country, date, options)
+## isBusinessDay(country, date, options)
 
 Returns if the supplied date is a business day.
 

@@ -37,6 +37,10 @@ Returns if the supplied date is a business day.
 
 Returns the next business day after `day`.
 
+## previousBusinessDay(country, date, options)
+
+Returns the previous business day before `day`.
+
 # License
 
 Check [here](LICENSE).

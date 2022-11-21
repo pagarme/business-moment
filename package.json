@@ -26,6 +26,7 @@
   "dependencies": {
     "bluebird-ff": "^1.0.2",
     "business-calendar": "1.4.0",
+    "detect-node": "^2.1.0",
     "moment": "https://github.com/pagarme/moment/archive/0.0.5.tar.gz",
     "prequest": "^1.0.0",
     "ramda": "^0.19.1"
